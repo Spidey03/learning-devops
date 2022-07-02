@@ -3,5 +3,3 @@
 ### AWS
 - AWS Infra
 
-
-@@include[aws_infra](learning_material/aws_infra.md) { # regions }

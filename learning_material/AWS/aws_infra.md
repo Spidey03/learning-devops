@@ -1,13 +1,13 @@
-### AWS Infra
+## AWS Infra
 
 <!--- #region --->
-#### Regions
+### Regions
 AWS has the concept of a **Region**, which is a physical location around the world where we cluster data centers. We call each group of logical data centers an Availability Zone. <br />
 Each AWS Region consists of _multiple, isolated, and physically separate **AZ**s_ within a geographic area.
 <!--- #region --->
 
 <!--- #az --->
-#### Availability Zones
+### Availability Zones
 An Availability Zone (AZ) is one or more discrete data centers with redundant power, networking, and connectivity in an AWS Region.
 
 <p align="center">(or)</p>
@@ -17,7 +17,7 @@ Within each region, there are multiple isolated locations known as **Availabilit
 
 
 <!--- #edgelocation --->
-#### Edge Location
+### Edge Location
 Edge locations are basically content delivery network which caches data and insures lower latency and faster delivery to the users in any location. They are located in major cities in the world.
 <!--- #edgelocation --->
 
